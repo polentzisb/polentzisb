@@ -1,4 +1,5 @@
-# Hola :wave: mi nombre es Polentzi Saavedra, psicólogo de profesión dedicado al Desarrollo web :owl:.<br>
+# Hola :wave: mi nombre es Polentzi Saavedra.<br>
+-Psicólogo de profesión dedicado al Desarrollo web :owl:
 -Autodidacta:smile:.<br>
 -Bootcamp desarrollo web Full Stack UDD :rocket:.<br>
 -Enfocado en el desarrollo con el Stack MERN :mushroom:.<br>
