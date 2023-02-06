@@ -1,10 +1,8 @@
 # **Hola :wave: mi nombre es Polentzi Saavedra.<br>**
-### -*Psicólogo de profesión dedicado al Desarrollo web :owl:*<br>
+### -*Desarrollo web Full Stack :owl:*<br>
 ### -Autodidacta:smile:.<br>
-### -Bootcamp desarrollo web Full Stack UDD :rocket:.<br>
 ### -Enfocado en el desarrollo con el Stack MERN :mushroom:.<br>
-### -Me encuentro estudiando sobre AWS:cake:.<br>
-### -Me apasiona elaborar y construir aplicaciones web:tropical_fish:.
+### -Me encuentro estudiando sobre AWS-VUE-PHP:cake:.<br>
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
