@@ -2,7 +2,7 @@
 ### -*Desarrollo web Full Stack :owl:*<br>
 ### -Autodidacta:smile:.<br>
 ### -Enfocado en el desarrollo con el Stack MERN :mushroom:.<br>
-### -Me encuentro estudiando sobre AWS-VUE-PHP:cake:.<br>
+### -Me encuentro estudiando AWS-VUE-PHP-Next:cake:.<br>
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
