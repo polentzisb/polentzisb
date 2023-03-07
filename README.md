@@ -1,7 +1,7 @@
 # **Hola :wave: mi nombre es Polentzi Saavedra.<br>**
 ### -*Desarrollo web Full Stack :owl:*<br>
-### -MERN Stack :mushroom:.<br>
-### -Me encuentro estudiando AWS-VUE-PHP-Next:cake:.<br>
+### -MERN Stack.<br>
+### -Me encuentro estudiando Java-AWS-VUE-Next.<br>
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
