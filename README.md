@@ -1,5 +1,5 @@
 # **Hola :wave: mi nombre es Polentzi Saavedra.<br>**
-### -*Desarrollo web Full Stack :owl:*<br>
+### -*Desarrollo Web Full Stack :owl:*<br>
 ### -MERN Stack.<br>
 ### -Me encuentro estudiando Java-AWS-VUE-Next.<br>
 
